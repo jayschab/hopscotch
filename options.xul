@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="chrome://global/skin/" type="text/css"?>
+<!DOCTYPE prefwindow SYSTEM "chrome://hopscotch/locale/options.dtd">
+
+<setting pref="extensions.hopscotch.highlight" type="bool" title="Highlight"> 
+    Highlight the element a page jump link will be made for
+</setting>

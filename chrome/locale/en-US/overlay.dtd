@@ -1,0 +1,8 @@
+<!ENTITY hopscotch.label "Your localized menuitem">
+<!ENTITY hopscotchContext.label "Your Menuitem">
+<!ENTITY hopscotchContext.accesskey "Y">
+<!ENTITY hopscotchToolbarButton.label "Your Toolbar Button">
+<!ENTITY hopscotchToolbarButton.tooltip "This is your toolbar button!">
+<!ENTITY hopscotchSidebar.label "Your Sidebar">
+<!ENTITY hopscotchToolbar.name  "example">
+<!ENTITY hopscotchToolbar.label "This is an example toolbar. You can hide it under View &gt; toolbars &gt; &hopscotchToolbar.name;">

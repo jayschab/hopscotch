@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet href="chrome://hopscotch/skin/overlay.css" type="text/css"?>
+<!DOCTYPE overlay SYSTEM "chrome://hopscotch/locale/overlay.dtd">
+<overlay id="hopscotch-overlay" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+  <script src="hopscotch.js"/>
+
+    <popup id="contentAreaContextMenu">
+        <menuitem id="hopscotch-make-link"
+            label="&hopscotchmakelink;"
+            oncommand="hopscotch.getlink(event)"/>            
+    </popup>
+
+</overlay>
