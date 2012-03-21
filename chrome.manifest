@@ -1,6 +1,7 @@
-content   hopscotch                 chrome/content/
-skin      hopscotch   classic/1.0   chrome/skin/
-locale    hopscotch   en-US         chrome/locale/en-US/
+content     hopscotch    chrome/content/
+content     hopscotch    chrome/content/ contentaccessible=yes
+overlay chrome://browser/content/browser.xul chrome://hopscotch/content/browser.xul
 
+locale	hopscotch	en-US	locale/en-US/
 
-overlay   chrome://browser/content/browser.xul   chrome://hopscotch/content/ff-overlay.xul
+skin	hopscotch	classic/1.0	skin/

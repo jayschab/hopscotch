@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<?xml-stylesheet href="chrome://hopscotch/skin/skin.css" type="text/css"?> 
+<!DOCTYPE hopscotch SYSTEM "chrome://hopscotch/locale/translations.dtd">
+<overlay id="sample" xmlns="http://www.mozilla.org/keymaster/gatekeeper/there.is.only.xul">
+		<script src="hopscotch.js" />
+		
+        <popup id="contentAreaContextMenu">
+          <menuitem id="hopscotch-make-link"
+                    label="&hopscotchmakelink;"
+                    oncommand="hopscotch.getlink()"/>            
+        </popup>
+</overlay>
